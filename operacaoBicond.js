@@ -1,5 +1,5 @@
 /*
-Operação bicondicional
+Operação Bicondicional
    escreval("Digite o nome do aluno: ")
    leia(nome)
    escreval("Digite a primeira nota: ")

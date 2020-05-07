@@ -1,5 +1,5 @@
 /*
-Operação disjunção exclusiva
+Operação Disjunção Exclusiva
    passou := falso
    escreval("Digite o nome do aluno: ")
    leia(nome)
